@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://poojabirajdar.github.io/csb-6xol9b/static/js/main.6d25412f.chunk.js",
+    "main.js.map": "https://poojabirajdar.github.io/csb-6xol9b/static/js/main.6d25412f.chunk.js.map",
+    "runtime-main.js": "https://poojabirajdar.github.io/csb-6xol9b/static/js/runtime-main.624e84eb.js",
+    "runtime-main.js.map": "https://poojabirajdar.github.io/csb-6xol9b/static/js/runtime-main.624e84eb.js.map",
+    "static/js/2.a1d446a5.chunk.js": "https://poojabirajdar.github.io/csb-6xol9b/static/js/2.a1d446a5.chunk.js",
+    "static/js/2.a1d446a5.chunk.js.map": "https://poojabirajdar.github.io/csb-6xol9b/static/js/2.a1d446a5.chunk.js.map",
+    "index.html": "https://poojabirajdar.github.io/csb-6xol9b/index.html",
+    "static/js/2.a1d446a5.chunk.js.LICENSE.txt": "https://poojabirajdar.github.io/csb-6xol9b/static/js/2.a1d446a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.624e84eb.js",
+    "static/js/2.a1d446a5.chunk.js",
+    "static/js/main.6d25412f.chunk.js"
+  ]
+}
